@@ -1,0 +1,4 @@
+Account Name: joseph felix
+Account Balance: 4500.23
+Account Type: savings
+Account Email: joefelix23@gmail.com
