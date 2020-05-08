@@ -1,4 +1,4 @@
-import math, random
+import random
 import os
 
 user_choice = input("Do you want to login or close app: ").lower()
